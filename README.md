@@ -35,3 +35,4 @@ issueを作ります。
 ## Name
 
 - [x] Takuya Yamamoto
+- [x] Yukako Nishimura
