@@ -4,12 +4,12 @@
 `git clone (with SSH)`でこのRepositoryをローカル環境にコピーします。
 ローカル環境には、予めgittestというようなRepositoryを作ってその中にコピーしましょう。
 
-##コピーできたら
+## コピーできたら
 
 issueを作ります。
 実務者になると、より詳細な内容を書かなければならないですが、今回はテストなので簡潔にissueを作ってOKです。
 
-##issueを作れたら
+## issueを作れたら
 
 このREADME.mdをテキストエディタで編集しましょう。
 
@@ -32,6 +32,6 @@ issueを作ります。
 
 という過程を取ってファイルをリモートRepositoryにあげましょう。
 
-##Name
+## Name
 
 - [x] Takuya Yamamoto
