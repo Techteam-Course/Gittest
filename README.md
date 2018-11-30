@@ -36,3 +36,4 @@ issueを作ります。
 
 - [x] Takuya Yamamoto
 - [x] Yukako Nishimura
+- [x] Kensei Yamagishi 
